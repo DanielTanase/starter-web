@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Daniel Tanase	daniel_tanase@_____.com		@danieltanase
 
 # THANKS
 
